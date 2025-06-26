@@ -1,7 +1,6 @@
 # toDOaPP
 access this app through
-[TaskKarlo](
-[taskkarlo.flutterflow.app](https://taskkarlo.flutterflow.app/))
+[TaskKarlo](https://taskkarlo.flutterflow.app/)
 
 A new Flutter project.
 
